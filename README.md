@@ -31,14 +31,13 @@
 
 <p align="left">
 
-<a href="https://codepen.io/wasimfaiz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wasimfaiz8" height="30" width="40" /></a>
-<a href="https://twitter.com/wasimfaiz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wasimfaiz8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wasimfaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasim-faiz-8727881b3" height="30" width="40" /></a>
-<a href="https://fb.com/wasimfaiz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasimfaiz8" height="30" width="40" /></a>
+<a href="https://codepen.io/atrocious_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atrocious_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/atrocious_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atrocious_dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-noman-alam-4346991b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-noman-alam-4346991b8" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007430896089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atrocious_dev" height="30" width="40" /></a>
 
-<a href="https://instagram.com/the_wasim_faiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_wasim_faiz" height="30" width="40" /></a>
-<a href="https://dribbble.com/thewasimfaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="thewasimfaiz" height="30" width="40" /></a>
-<a href="https://hashnode.com/@wasimfaiz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@wasimfaiz7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/atrocious.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_md_noman_alam" height="30" width="40" /></a>
+<a href="https://dribbble.com/themdnomanalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="thenomanalam" height="30" width="40" /></a>
 
 </p>
 
