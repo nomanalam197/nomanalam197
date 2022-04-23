@@ -1,14 +1,14 @@
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
- <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://wasimfaiz.github.io/" target="_blank">MD NOMAN ALAM</a>. Nice to see you.🤗 </h1> 
+ <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://github.com/nomanalam197" target="_blank">MD NOMAN ALAM</a>. Nice to see you.🤗 </h1> 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h3 align="center">A passionate frontend developer and UI/UX designer ♻️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="wasimfaiz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanalam197&label=Profile%20views&color=0e75b6&style=flat" alt="nomanalam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wasimfaiz8" target="blank"><img src="https://img.shields.io/twitter/follow/wasimfaiz8?logo=twitter&style=for-the-badge" alt="wasimfaiz8" /></a> </p>
+<p align="left"> <a href="https://twitter.com/atrocious_dev?t=SjAhMf8UuxCOH6WcREg-yg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/atrocious_dev?logo=twitter&style=for-the-badge" alt="atrocious_dev" /></a> </p>
 
 - 🔭 Working on <a href="https://github.com/witcherscode/" target="_blank">witcherscode</a>
 
