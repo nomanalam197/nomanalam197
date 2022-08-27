@@ -2,9 +2,7 @@
  <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://github.com/nomanalam197" target="_blank">MD NOMAN ALAM</a>. Nice to see you.🤗 </h1> 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"><br>
 
 <h3 align="center">A passionate MERN Stack + (SQL & PHP) Developer.</h3>
 
