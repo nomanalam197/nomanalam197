@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/atrocious_dev?t=SjAhMf8UuxCOH6WcREg-yg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/atrocious_dev?logo=twitter&style=for-the-badge" alt="atrocious_dev" /></a> </p>
 
-- 🔭 Working on <a href="https://github.com/witcherscode/" target="_blank">witcherscode</a>
 
 - 🌱 I’m currently learning  *Web 3.0 😁*
 
@@ -18,11 +17,11 @@
 
 - 🥅 2022 Goals: Contribute more to Open Source projects *.*
 
-- 💬 Ask me about *Web development ,GSAP , Javascript , UI design*
+- 💬 Ask me about *Full Stack Web Development*
 
 - 📫 How to reach me *n.arocks10@gmail.com*
 
-- ⚡ Fun fact *When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝*
+- ⚡ Fun fact *When I am not working I usually spend my time in learning new skills.🥘🍝*
 
  <img align="center" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="400" alt="androidgif">
 
