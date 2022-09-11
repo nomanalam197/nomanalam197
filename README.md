@@ -19,6 +19,8 @@
 
 - 💬 Ask me about *Full Stack Web Development*
 
+- I also write Blog. Here is the link to visi my Blog's "https://atrociousblog.hashnode.dev/" .
+
 - 📫 How to reach me *n.arocks10@gmail.com*
 
 - ⚡ Fun fact *When I am not working I usually spend my time in learning new skills.🥘🍝*
