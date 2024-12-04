@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate with other content creators *.*
 
-- 🥅 2022 Goals: Contribute more to Open Source projects *.*
+- 🥅 2025 Goals: Contribute more to Open Source projects *.*
 
 - 💬 Ask me about *Full Stack Web Development*
 
